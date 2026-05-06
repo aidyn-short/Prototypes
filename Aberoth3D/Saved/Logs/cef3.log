@@ -1,7 +1,7 @@
-[10316:12304:0503/211157.415:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10316:9472:0503/211157.471:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10316:12304:0503/211157.498:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10316:12304:0503/211202.892:ERROR:device_event_log_impl.cc(196)] [21:12:02.836] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[1988:6748:0503/211203.489:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FA6B2AA1FFBE84F655A5F4EF91FEA8C6 will be ignored
-[10316:18492:0503/211206.208:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[10316:12304:0503/211439.476:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21424:20944:0503/211528.593:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21424:20888:0503/211528.621:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21424:20944:0503/211528.637:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18760:15708:0503/211532.237:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-29446E2F417E27ECD792935653F788BF will be ignored
+[21424:20944:0503/211535.317:ERROR:device_event_log_impl.cc(196)] [21:15:35.307] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[21424:13264:0503/211538.893:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21424:20944:0503/212526.191:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
