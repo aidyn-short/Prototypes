@@ -1,3 +1,5 @@
-2026/05/17-19:14:58.964 125c Reusing MANIFEST C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/17-19:14:58.975 125c Recovering log #4
-2026/05/17-19:14:58.977 125c Reusing old log C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/05/18-15:42:16.949 e58 Reusing MANIFEST C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-15:42:16.962 e58 Recovering log #4
+2026/05/18-15:42:16.962 e58 Level-0 table #6: started
+2026/05/18-15:42:16.979 e58 Level-0 table #6: 64718 bytes OK
+2026/05/18-15:42:16.995 e58 Delete type=0 #4
