@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Aberoth3D.gen.cpp.obj": [
+			"Aberoth3D.init.gen.cpp.obj",
+			"GeneralAttributeSet.gen.cpp.obj",
+			"MyBlueprintFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

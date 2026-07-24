@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Aberoth3D",
+			"Path": "..\\Source\\Aberoth3D.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Aberoth3DEditor",
+			"Path": "..\\Source\\Aberoth3DEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

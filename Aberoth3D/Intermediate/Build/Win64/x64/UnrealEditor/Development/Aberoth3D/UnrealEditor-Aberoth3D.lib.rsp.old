@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Aberoth3D.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/Aberoth3DEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/Module.Aberoth3D.gen.cpp.obj"
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/Aberoth3D.cpp.obj"
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/GeneralAttributeSet.cpp.obj"
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/Temp.cpp.obj"
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/PerModuleInline.gen.cpp.obj"
+"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/Default.rc2.res"
+/OUT:"C:/Users/Skele/Desktop/Prototypes/Aberoth3D/Intermediate/Build/Win64/x64/UnrealEditor/Development/Aberoth3D/UnrealEditor-Aberoth3D.lib"
