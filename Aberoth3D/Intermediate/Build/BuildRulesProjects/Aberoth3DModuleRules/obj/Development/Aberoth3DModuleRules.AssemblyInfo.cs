@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aberoth3DModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e3db921ca10e25404291dd1882322d033b52cad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7942a5f742e9be550f5cb9d34a5ec3137294bc6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aberoth3DModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aberoth3DModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,7 +33,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
     <LocalDebuggerCommandArguments>"$(SolutionDir)Aberoth3D.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArgumentsHistory>"C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Aberoth3D.uproject" -skipcompile|</LocalDebuggerCommandArgumentsHistory>
+    <LocalDebuggerCommandArgumentsHistory>"C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Aberoth3D.uproject" -skipcompile|"D:\AberothGitRepo\Prototypes\Aberoth3D\Aberoth3D.uproject" -skipcompile|</LocalDebuggerCommandArgumentsHistory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64_Development_Editor|x64'">
     <RemoteDebuggerCommandArguments>"$(SolutionDir)Aberoth3D.uproject" -skipcompile</RemoteDebuggerCommandArguments>

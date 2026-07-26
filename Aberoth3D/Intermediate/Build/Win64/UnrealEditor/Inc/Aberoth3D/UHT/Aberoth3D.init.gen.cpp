@@ -17,7 +17,7 @@ static_assert(!UE_WITH_CONSTINIT_UOBJECT, "This generated code can only be compi
 			nullptr,
 			0,
 			PKG_CompiledIn | 0x00000000,
-			0x13F1458E,
+			0x8C730F9F,
 			0xAC6B9C5D,
 			METADATA_PARAMS(0, nullptr)
 		};
@@ -25,5 +25,5 @@ static_assert(!UE_WITH_CONSTINIT_UOBJECT, "This generated code can only be compi
 	}
 	return Z_Registration_Info_UPackage__Script_Aberoth3D.OuterSingleton;
 }
-static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Aberoth3D(Z_Construct_UPackage__Script_Aberoth3D, TEXT("/Script/Aberoth3D"), Z_Registration_Info_UPackage__Script_Aberoth3D, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x13F1458E, 0xAC6B9C5D));
+static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Aberoth3D(Z_Construct_UPackage__Script_Aberoth3D, TEXT("/Script/Aberoth3D"), Z_Registration_Info_UPackage__Script_Aberoth3D, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8C730F9F, 0xAC6B9C5D));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

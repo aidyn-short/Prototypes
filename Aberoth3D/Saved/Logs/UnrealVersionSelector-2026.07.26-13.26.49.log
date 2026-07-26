@@ -1,0 +1,72 @@
+Log started at 07/26/2026 13:26:52 (2026-07-26T17:26:52Z)
+Resolved project argument D:/AberothGitRepo/Prototypes/Aberoth3D/Aberoth3D.uproject to D:\AberothGitRepo\Prototypes\Aberoth3D\Aberoth3D.uproject
+No config file at C:\ProgramData\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\user1\AppData\Local\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\user1\OneDrive\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\user1\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from: C:\Users\user1\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from: C:\Users\user1\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Log file: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\Logs\UnrealVersionSelector-2026.07.26-13.26.49.log
+
+Setting temp directory to 'C:\Users\user1\AppData\Local\Temp\UnrealBuildTool\513d2d2b'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.22000.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22000.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.19041.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.22000.0, Version_AutoSdk=10.0.22621.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+Resolved project argument D:/AberothGitRepo/Prototypes/Aberoth3D/Aberoth3D.uproject to D:\AberothGitRepo\Prototypes\Aberoth3D\Aberoth3D.uproject
+Reading configuration file from cache (D:\AberothGitRepo\Prototypes\Aberoth3D\Intermediate\Build\XmlConfigCache.bin): C:\Users\user1\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (D:\AberothGitRepo\Prototypes\Aberoth3D\Intermediate\Build\XmlConfigCache.bin): D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (D:\AberothGitRepo\Prototypes\Aberoth3D\Intermediate\Build\XmlConfigCache.bin): C:\Users\user1\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Skipping project file generator registration for Android due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Skipping project file generator registration for IOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Skipping project file generator registration for Linux due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Skipping project file generator registration for LinuxArm64 due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Skipping project file generator registration for Mac due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Skipping project file generator registration for TVOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+Registering project generator UnrealBuildTool.VisionOSProjectGenerator for VisionOS
+Skipping project file generator registration for VisionOS due to no valid BuildPlatform.
+
+---   SDK INFO START   ---
+---   SDK INFO END   ---
+
+
+Generating VisualStudio project files:
+Discovering modules, targets and source code for project...
+Found VisualStudioUnsupported installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.5.33627.172)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215 (Family=14.35.32215, FamilyRank=1, Version=14.35.32217, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error=True, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.34.31931)
+Detected supported platforms: Win64
+Adding projects for all targets...
+Skipping D:\downloads\UE_5.7\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping D:\downloads\UE_5.7\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+Compiling C:\Users\user1\AppData\Local\UnrealEngine\Intermediate\Build\BuildRules\MarketplaceRules.dll: Assembly does not exist
+Compiling D:\AberothGitRepo\Prototypes\Aberoth3D\Intermediate\Build\BuildRules\Aberoth3DModuleRules.dll: Assembly does not exist
+Adding projects for all targets took 12.13s
+Visual Studio 2022 x64 must be installed in order to build this target.
+BuildException: Visual Studio 2022 x64 must be installed in order to build this target.
+   at UnrealBuildBase.Parallel2.ForEach[TSource](IEnumerable`1 source, Action`1 body, Int32 helperCount, Boolean useTasks)
+   at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, List`1 AllTargetFiles, String[] Arguments, List`1 EngineProjects, List`1 GameProjects, Dictionary`2 ProjectFileToUProjectFile, Dictionary`2 ProgramProjects, Dictionary`2 RulesAssemblies, ILogger Logger)
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, ILogger Logger)
+   at UnrealBuildTool.GenerateProjectFilesMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger)
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray)
+WriteFileIfChanged() wrote 2 changed files of 4 requested writes.
+
+Result: Failed (OtherCompilationError)
+Total execution time: 24.13 seconds

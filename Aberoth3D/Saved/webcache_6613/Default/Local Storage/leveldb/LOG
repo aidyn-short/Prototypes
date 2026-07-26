@@ -1,3 +1,2 @@
-2026/07/26-12:49:02.360 49b0 Reusing MANIFEST C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/26-12:49:02.367 49b0 Recovering log #16
-2026/07/26-12:49:02.375 49b0 Reusing old log C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb/000016.log 
+2026/07/26-16:24:54.664 1654 Creating DB D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/07/26-16:24:55.126 1654 Reusing MANIFEST D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001

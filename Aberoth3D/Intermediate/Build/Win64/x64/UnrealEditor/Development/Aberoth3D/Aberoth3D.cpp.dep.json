@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\skele\\desktop\\prototypes\\aberoth3d\\source\\aberoth3d\\aberoth3d.cpp",
+        "Source": "d:\\aberothgitrepo\\prototypes\\aberoth3d\\source\\aberoth3d\\aberoth3d.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\skele\\desktop\\prototypes\\aberoth3d\\intermediate\\build\\win64\\x64\\aberoth3deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "PCH": "d:\\aberothgitrepo\\prototypes\\aberoth3d\\intermediate\\build\\win64\\x64\\aberoth3deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
         "Includes": [
-            "c:\\users\\skele\\desktop\\prototypes\\aberoth3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aberoth3d\\definitions.aberoth3d.h",
-            "c:\\users\\skele\\desktop\\prototypes\\aberoth3d\\source\\aberoth3d\\aberoth3d.h"
+            "d:\\aberothgitrepo\\prototypes\\aberoth3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aberoth3d\\definitions.aberoth3d.h",
+            "d:\\aberothgitrepo\\prototypes\\aberoth3d\\source\\aberoth3d\\aberoth3d.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

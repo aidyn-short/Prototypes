@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Skele\\Desktop\\Prototypes\\Aberoth3D\\Source\\Aberoth3D\\Aberoth3D.Build.cs",
-		"C:\\Users\\Skele\\Desktop\\Prototypes\\Aberoth3D\\Source\\Aberoth3D.Target.cs",
-		"C:\\Users\\Skele\\Desktop\\Prototypes\\Aberoth3D\\Source\\Aberoth3DEditor.Target.cs"
+		"D:\\AberothGitRepo\\Prototypes\\Aberoth3D\\Source\\Aberoth3D\\Aberoth3D.Build.cs",
+		"D:\\AberothGitRepo\\Prototypes\\Aberoth3D\\Source\\Aberoth3D.Target.cs",
+		"D:\\AberothGitRepo\\Prototypes\\Aberoth3D\\Source\\Aberoth3DEditor.Target.cs"
 	],
 	"EngineVersion": "5.7.4"
 }

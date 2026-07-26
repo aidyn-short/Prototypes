@@ -1,6 +1,16 @@
-[15604:15524:0726/124902.126:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15604:16144:0726/124902.161:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15604:15524:0726/124902.168:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12208:11136:0726/124905.580:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5FEA3FF52C27798A394F301D130EDC41 will be ignored
-[15604:15524:0726/124908.707:ERROR:device_event_log_impl.cc(196)] [12:49:08.700] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[15604:15524:0726/125727.407:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25148:20164:0726/162452.114:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25148:20164:0726/162453.389:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[25148:20164:0726/162454.589:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25148:28860:0726/162545.770:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25148:28860:0726/162545.852:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25148:28860:0726/162545.853:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25148:28860:0726/162545.855:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25148:20164:0726/162554.849:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[25148:20164:0726/162555.455:ERROR:device_event_log_impl.cc(196)] [16:25:55.445] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25148:28320:0726/162556.300:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25148:28320:0726/162556.309:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19268:27004:0726/162607.628:ERROR:backend_impl.cc(989)] Critical error found -8
+[19268:27004:0726/162607.700:WARNING:storage_block-inl.h(138)] Failed data load.
+[19268:27004:0726/162607.700:WARNING:storage_block-inl.h(138)] Failed data load.
+[19268:27004:0726/162607.701:ERROR:entry_impl.cc(955)] Failed to save user data
+[25148:20164:0726/162801.032:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

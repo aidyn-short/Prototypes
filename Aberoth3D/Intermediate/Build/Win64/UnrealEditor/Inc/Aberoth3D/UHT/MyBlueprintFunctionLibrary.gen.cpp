@@ -179,15 +179,15 @@ UMyBlueprintFunctionLibrary::~UMyBlueprintFunctionLibrary() {}
 // ********** End Class UMyBlueprintFunctionLibrary ************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_Skele_Desktop_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics
+struct Z_CompiledInDeferFile_FID_AberothGitRepo_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UMyBlueprintFunctionLibrary, UMyBlueprintFunctionLibrary::StaticClass, TEXT("UMyBlueprintFunctionLibrary"), &Z_Registration_Info_UClass_UMyBlueprintFunctionLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMyBlueprintFunctionLibrary), 693571248U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_Skele_Desktop_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Skele_Desktop_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_3995082849{
+}; // Z_CompiledInDeferFile_FID_AberothGitRepo_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_AberothGitRepo_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_3995082849{
 	TEXT("/Script/Aberoth3D"),
-	Z_CompiledInDeferFile_FID_Users_Skele_Desktop_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Skele_Desktop_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_AberothGitRepo_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_AberothGitRepo_Prototypes_Aberoth3D_Source_Aberoth3D_MyBlueprintFunctionLibrary_h__Script_Aberoth3D_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };
