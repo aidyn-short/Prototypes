@@ -5,8 +5,8 @@
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "AttributeSet.h"
-#include "MyBlueprintFunctionLibrary.generated.h"
 #include "GeneralAttributeSet.h"
+#include "MyBlueprintFunctionLibrary.generated.h"
 
 class UAbilitySystemComponent;
 
