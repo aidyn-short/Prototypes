@@ -1,5 +1,3 @@
-2026/07/26-16:24:55.462 70bc Log #3: 34 ops saved to Table #4 OK
-2026/07/26-16:24:55.464 70bc Archiving D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/07/26-16:24:55.464 70bc Table #4: 34 entries OK
-2026/07/26-16:24:55.465 70bc Archiving D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/07/26-16:24:55.587 70bc **** Repaired leveldb D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 561 bytes. Some data may have been lost. ****
+2026/07/29-11:40:53.346 1c38 Reusing MANIFEST C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/29-11:40:53.347 1c38 Recovering log #6
+2026/07/29-11:40:53.347 1c38 Reusing old log C:\Users\Skele\Desktop\Prototypes\Aberoth3D\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
