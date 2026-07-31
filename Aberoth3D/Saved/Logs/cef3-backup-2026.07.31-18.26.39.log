@@ -1,0 +1,18 @@
+[5388:15912:0731/141310.937:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5388:15912:0731/141313.259:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5388:15684:0731/141419.183:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5388:15684:0731/141419.226:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5388:15684:0731/141419.228:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5388:15684:0731/141419.230:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\Aberoth3D\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5388:15912:0731/141428.719:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[23856:15680:0731/141437.118:ERROR:frame_impl.cc(537)] frame 5-68E9907A62A6C893FA386D69DB4F923E connection timeout
+[23856:15680:0731/141448.129:ERROR:frame_impl.cc(537)] frame 5-68E9907A62A6C893FA386D69DB4F923E connection timeout
+[23856:15680:0731/141459.147:ERROR:frame_impl.cc(537)] frame 5-68E9907A62A6C893FA386D69DB4F923E connection timeout
+[23856:15680:0731/141506.074:FATAL:frame_impl.cc(648)] frame 5-68E9907A62A6C893FA386D69DB4F923E connection retry failed (reason=RENDER_FRAME_DISCONNECT, current_state=CONNECTION_PENDING)
+[5388:15684:0731/141506.105:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5388:15684:0731/141506.107:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5388:15912:0731/141509.481:ERROR:device_event_log_impl.cc(196)] [14:15:08.819] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[22916:16816:0731/141510.350:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[22916:16816:0731/141512.622:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[5388:15912:0731/142027.064:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[5388:15912:0731/142639.040:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
