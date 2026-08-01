@@ -1,20 +1,14 @@
-[23000:22944:0731/153632.071:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14588:22140:0731/153632.071:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14588:22140:0731/153636.637:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14588:22140:0731/153724.969:ERROR:device_event_log_impl.cc(196)] [15:37:24.621] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[21448:16372:0731/153728.586:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21448:9084:0731/153728.801:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21448:9084:0731/153728.801:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21448:9084:0731/153728.802:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14588:17452:0731/153729.318:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[14588:22140:0731/153729.483:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[14588:22140:0731/153729.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[14588:22140:0731/153729.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[14588:22140:0731/153729.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[14588:17452:0731/153729.517:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[13348:18540:0731/153729.690:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[13348:13960:0731/153730.198:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[13348:13960:0731/153730.198:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[13348:13960:0731/153730.199:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[13348:18540:0731/153734.275:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14588:22140:0731/153827.671:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[2940:20820:0801/160212.703:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2940:20820:0801/160215.035:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2940:20820:0801/160340.171:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[2940:20820:0801/160343.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23052:26564:0801/160346.388:ERROR:frame_impl.cc(537)] frame 5-C6E13DB8F5EA11919C49C3B28658C08A connection timeout
+[2940:20820:0801/160350.626:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/160356.121:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/160359.787:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/160610.531:ERROR:device_event_log_impl.cc(196)] [16:06:09.907] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[2940:20820:0801/161000.961:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/161027.509:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/161032.536:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/161049.416:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2940:20820:0801/161207.948:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
