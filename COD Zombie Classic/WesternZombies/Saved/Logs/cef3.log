@@ -1,65 +1,41 @@
-[19836:6296:0819/230435.040:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19836:13344:0819/230435.108:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19836:6296:0819/230435.140:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19836:6296:0819/230441.571:ERROR:device_event_log_impl.cc(196)] [23:04:41.483] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[3832:11880:0819/230441.803:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-61616CD6BE1470CB7702F618AFE5D788 will be ignored
-[17516:20108:0819/230444.356:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[17516:18384:0819/230444.477:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[17516:18384:0819/230444.478:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[17516:18384:0819/230444.480:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[8548:1244:0819/230444.528:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[8548:1244:0819/230444.528:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[8548:1244:0819/230444.529:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[8548:1244:0819/230444.542:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[8548:1244:0819/230444.542:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[8548:1244:0819/230444.542:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[17516:18384:0819/230444.542:WARNING:stun_port.cc(442)] Port[1045400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.543:WARNING:stun_port.cc(442)] Port[1045c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.543:WARNING:stun_port.cc(442)] Port[1046400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[8548:1244:0819/230444.551:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[8548:1244:0819/230444.551:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[8548:1244:0819/230444.552:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[8548:1244:0819/230444.553:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[8548:1244:0819/230444.553:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[8548:1244:0819/230444.553:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[17516:18384:0819/230444.582:WARNING:stun_port.cc(442)] Port[1045400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.582:WARNING:stun_port.cc(442)] Port[1045c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.582:WARNING:stun_port.cc(442)] Port[1046400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.582:WARNING:stun_port.cc(442)] Port[1045400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.582:WARNING:stun_port.cc(442)] Port[1045c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[17516:18384:0819/230444.583:WARNING:stun_port.cc(442)] Port[1046400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19836:4744:0819/230444.723:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[19836:6296:0819/230444.814:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[19836:6296:0819/230444.814:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[19836:6296:0819/230444.814:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[19836:6296:0819/230444.814:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[19836:4744:0819/230444.832:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[1772:9036:0819/230445.038:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[1772:16648:0819/230445.147:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[1772:16648:0819/230445.147:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[1772:16648:0819/230445.147:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[8548:1244:0819/230445.192:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[8548:1244:0819/230445.193:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[8548:1244:0819/230445.193:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[8548:1244:0819/230445.193:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[8548:1244:0819/230445.193:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[8548:1244:0819/230445.193:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1260400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1260c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1261400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[8548:1244:0819/230445.194:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[8548:1244:0819/230445.194:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[8548:1244:0819/230445.194:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[8548:1244:0819/230445.194:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[8548:1244:0819/230445.194:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[8548:1244:0819/230445.194:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1260400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1260c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1261400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1260400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1260c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:16648:0819/230445.194:WARNING:stun_port.cc(442)] Port[1261400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[1772:9036:0819/230446.824:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[12200:6532:0819/230653.860:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[12200:6532:0819/230653.860:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[19836:6296:0820/000143.789:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[15004:24872:0827/201230.658:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15004:24872:0827/201231.865:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[15004:24872:0827/201233.132:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15004:23924:0827/201307.102:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201307.332:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201307.333:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201307.335:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201320.574:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201320.579:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22104:9920:0827/201322.249:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-25B8120642B32C863ED6B59A196679A9 will be ignored
+[15004:24872:0827/201324.179:ERROR:device_event_log_impl.cc(196)] [20:13:23.502] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24228:25556:0827/201324.866:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24228:20556:0827/201325.141:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24228:20556:0827/201325.142:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24228:20556:0827/201325.143:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15004:8248:0827/201326.870:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:8248:0827/201327.519:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[11384:13032:0827/201328.847:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201328.948:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201328.948:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201328.949:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:13032:0827/201334.928:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:13032:0827/201334.941:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201334.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201334.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201334.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10980:22008:0827/201545.262:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10980:22008:0827/201545.262:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13592:22108:0827/201545.325:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 35
+[3444:3064:0827/201852.080:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3444:3064:0827/201853.539:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15004:24872:0827/201856.669:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3444:3064:0827/201900.729:ERROR:device_event_log_impl.cc(196)] [20:19:00.723] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1368:22804:0827/201951.175:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 29
+[3684:8708:0827/201951.679:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-60C565BA28EBA06E0E5FEEEDF66AD646 will be ignored
+[1368:22804:0827/201951.810:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 35
+[3444:3064:0827/203125.245:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

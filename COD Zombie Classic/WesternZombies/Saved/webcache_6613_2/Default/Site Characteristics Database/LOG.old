@@ -1,0 +1,5 @@
+2026/08/27-20:12:34.139 5d74 Log #3: 2 ops saved to Table #4 OK
+2026/08/27-20:12:34.155 5d74 Archiving D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Site Characteristics Database/000003.log: OK
+2026/08/27-20:12:34.156 5d74 Table #4: 2 entries OK
+2026/08/27-20:12:34.157 5d74 Archiving D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/08/27-20:12:34.350 5d74 **** Repaired leveldb D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
