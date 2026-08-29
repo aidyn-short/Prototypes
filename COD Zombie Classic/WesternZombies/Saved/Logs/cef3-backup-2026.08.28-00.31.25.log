@@ -1,0 +1,41 @@
+[15004:24872:0827/201230.658:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15004:24872:0827/201231.865:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[15004:24872:0827/201233.132:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15004:23924:0827/201307.102:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201307.332:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201307.333:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201307.335:WARNING:leveldb_database.cc(141)] Unable to open D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata: IO error: D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201320.574:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15004:23924:0827/201320.579:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22104:9920:0827/201322.249:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-25B8120642B32C863ED6B59A196679A9 will be ignored
+[15004:24872:0827/201324.179:ERROR:device_event_log_impl.cc(196)] [20:13:23.502] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24228:25556:0827/201324.866:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24228:20556:0827/201325.141:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24228:20556:0827/201325.142:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24228:20556:0827/201325.143:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15004:8248:0827/201326.870:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:24872:0827/201327.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[15004:8248:0827/201327.519:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[11384:13032:0827/201328.847:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201328.948:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201328.948:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201328.949:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:13032:0827/201334.928:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:13032:0827/201334.941:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201334.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201334.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11384:23864:0827/201334.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10980:22008:0827/201545.262:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10980:22008:0827/201545.262:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13592:22108:0827/201545.325:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 35
+[3444:3064:0827/201852.080:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3444:3064:0827/201853.539:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15004:24872:0827/201856.669:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[3444:3064:0827/201900.729:ERROR:device_event_log_impl.cc(196)] [20:19:00.723] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1368:22804:0827/201951.175:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 29
+[3684:8708:0827/201951.679:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-60C565BA28EBA06E0E5FEEEDF66AD646 will be ignored
+[1368:22804:0827/201951.810:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 35
+[3444:3064:0827/203125.245:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
