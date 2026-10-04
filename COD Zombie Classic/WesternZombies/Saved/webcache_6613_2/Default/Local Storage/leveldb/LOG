@@ -1,3 +1,6 @@
-2026/10/03-14:03:37.197 2f68 Reusing MANIFEST C:\Users\Skele\Desktop\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/03-14:03:37.205 2f68 Recovering log #4
-2026/10/03-14:03:37.213 2f68 Reusing old log C:\Users\Skele\Desktop\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Local Storage\leveldb/000004.log 
+2026/10/04-14:25:22.637 4e50 Reusing MANIFEST D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/04-14:25:22.642 4e50 Recovering log #4
+2026/10/04-14:25:22.644 4e50 Reusing old log D:\AberothGitRepo\Prototypes\COD Zombie Classic\WesternZombies\Saved\webcache_6613_2\Default\Local Storage\leveldb/000004.log 
+2026/10/04-14:30:04.692 fd0 Level-0 table #8: started
+2026/10/04-14:30:05.086 fd0 Level-0 table #8: 65629 bytes OK
+2026/10/04-14:30:05.128 fd0 Delete type=0 #4
